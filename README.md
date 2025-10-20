@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧠 FitFlux AI – Harjoitusten intensiteettiluokittelija / Smart Workout Intensity Classifier
 
 FitFlux AI on Python-pohjainen projekti, joka hyödyntää Stravasta ladattua urheiludataa harjoitusten intensiteetin luokitteluun.  
@@ -45,3 +46,7 @@ FitFlux AI demonstrates a complete data pipeline:
 3. **Model Training:** Building a decision tree classifier to categorize workouts  
 4. **Evaluation:** Visualizing model accuracy, feature importance, and confusion matrix  
 5. **Prediction:** Generating live examples and probabilities for new workouts
+=======
+# FitFlux-AI
+AI-powered fitness data analysis and work intensity classification using Strava activity data.
+>>>>>>> 166b8860bd7682a73c1b8085582a19e9cf485ad4
